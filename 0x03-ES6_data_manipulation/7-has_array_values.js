@@ -1,5 +1,6 @@
 /** *
- * this return true if its a set
+ * this function returns true if all 
+ * elements of a set exist within the array
  */
 
 export default function hasValuesFromArray(setInstance, arr) {
